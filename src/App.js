@@ -3,7 +3,7 @@ import './App.css';
 import { useState, useEffect } from 'react';
 
 // const API = "http://localhost:4000/mobiles";
-const API = "https://vercel.com/salviuez/mdb";
+const API = "https://revision.vercel.app";
 
 function App() {
   return (

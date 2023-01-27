@@ -2,8 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect } from 'react';
 
-// const API = "http://localhost:4000/mobiles";
-const API = "https://revision.vercel.app";
+const API = "http://localhost:4000";
+//const API = "https://revision.vercel.app";
 
 function App() {
   return (
